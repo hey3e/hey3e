@@ -1,4 +1,3 @@
-### Hi there 👋
+<h2> Hey you, I'm heyme. 🐟</h2>
 
-
-![image](https://github.com/hey3e/hey3e/blob/main/THEONE.gif)
+<img align="right" alt="GIF" src="https://github.com/hey3e/hey3e/blob/main/THEONE.gif" width="500"/>
